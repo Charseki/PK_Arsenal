@@ -1,0 +1,299 @@
+{
+    "X-Forwarded-For": [
+        "211.69.32.134"
+    ],
+    "TE": [
+        "deflate%2Cgzip%3Bq%3D0.3"
+    ],
+    "Accept-Encoding": [
+        "gzip%2Cdeflate"
+    ],
+    "Accept-Language": [
+        "en-us"
+    ],
+    "Cache-Control": [
+        "max-age%3D0"
+    ],
+    "Pragma": [
+        "no-cache"
+    ],
+    "Connection": [
+        "close"
+    ],
+    "AppLVKey": [
+        "2020-07-20%2004%2Ce21f6aa6a55a581ee03e01a88e01c6f4"
+    ],
+    "Upgrade-Insecure-Requests": [
+        "1"
+    ],
+    "X-Requested-With": [
+        "XMLHttpRequest"
+    ],
+    "EagleEye-TraceId": [
+        "767bc73b15947191835422015e"
+    ],
+    "Ali-CDN-Real-IP": [
+        "240e%3A94c%3A0%3A601%3Ae73%3Aebff%3Afe90%3A1f06"
+    ],
+    "Ali-Swift-Stat-Host": [
+        "www.landui.com"
+    ],
+    "X-Client-Scheme": [
+        "https"
+    ],
+    "Ali-Swift-Origin-Host": [
+        "www.landui.com"
+    ],
+    "Ali-Swift-Fwd-Head": [
+        "on"
+    ],
+    "Ali-Swift-Origin-Port": [
+        "80"
+    ],
+    "Content-Disposition": [
+        "form-data%3B%20name%3D%22activepath%22"
+    ],
+    "Referer": [
+        "www.ee.buaa.edu.cn"
+    ],
+    "X-Cdn-Src-Port": [
+        "59102"
+    ],
+    "Sec-Fetch-Site": [
+        "same-origin"
+    ],
+    "Sec-Fetch-Dest": [
+        "script"
+    ],
+    "User-Agent": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150"
+    ],
+    "authorization": [
+        "null"
+    ],
+    "Client-IP": [
+        "127.0.0.1"
+    ],
+    "X-Forwarded-Host": [
+        "localhost"
+    ],
+    "X-From-Cdn": [
+        "aliyun"
+    ],
+    "Ali-Swift-Origin-Scheme": [
+        "http"
+    ],
+    "x-alicdn-da-via": [
+        "240e%3Ad9%3Aa600%3A600%3A3%3A%3A3fe%2C113.96.58.122"
+    ],
+    "Accept-Charset": [
+        "GB2312%2Cutf-8%3Bq%3D0.7%2C%2A%3Bq%3D0.7"
+    ],
+    "X-MS-CookieUri-Requested": [
+        "t"
+    ],
+    "Accept-Auth": [
+        "badger%2CWlid1.1%2CBearer"
+    ],
+    "X-Via": [
+        "1.1%20PStjdxco17%3A6%20%28Cdn%20Cache%20Server%20V2.0%29%2C%201.1%20sutzhoudxin11%3A3%20%28Cdn%20Cache%20Server%20V2.0%29"
+    ],
+    "X-Resource-Type": [
+        "document"
+    ],
+    "X-Bd-Traceid": [
+        "e3d5e70e60d54efcaf92c939feede6e0"
+    ],
+    "DNT": [
+        "1"
+    ],
+    "Sec-Fetch-User": [
+        "%3F1"
+    ],
+    "X-Forwarded": [
+        "187.153.96.253"
+    ],
+    "Forwarded-For": [
+        "187.153.96.253"
+    ],
+    "X-CLUSTER-CLIENT-IP": [
+        "187.153.96.253"
+    ],
+    "X-Forwarded-Proto": [
+        "http"
+    ],
+    "If-None-Match": [
+        "%224161-5a3277aa15a00-gzip%22"
+    ],
+    "X-Real-IP": [
+        "118.193.103.11"
+    ],
+    "X-IDCRL_ACCEPTED": [
+        "t"
+    ],
+    "Cdn-Src-Ip": [
+        "240e%3Ad8%3A134b%3A1de%3A49e2%3A3505%3A33ad%3A2c0d"
+    ],
+    "X-Ws-Request-Id": [
+        "5f3211d6_PSzqstdxnw128_7620-26398"
+    ],
+    "X-Prototype-Version": [
+        "1.6.0.2"
+    ],
+    "starttime": [
+        "1596700015964"
+    ],
+    "token": [
+        "bda7815245df058aef8f03b74821c617"
+    ],
+    "REMOTE_ADDR": [
+        "215.9.70.98"
+    ],
+    "rtnType": [
+        "html"
+    ],
+    "X-Office-Major-Version": [
+        "16"
+    ],
+    "X-FeatureVersion": [
+        "1"
+    ],
+    "CLIENTIP": [
+        "111.19.78.249"
+    ],
+    "x-tif-signature": [
+        "904A991362E54692A2F6EE387DADAF016116126FB52A9B2CC766709D9403B3D7"
+    ],
+    "x-tif-nonce": [
+        "1594899633874012"
+    ],
+    "x-proxy-by": [
+        "Tif2-APIGate"
+    ],
+    "If-Modified-Since": [
+        "Fri%2C%2014%20Oct%202016%2001%3A00%3A25%20GMT"
+    ],
+    "Sec-Fetch-Mode": [
+        "cors"
+    ],
+    "Forwarded": [
+        "145.179.237.186"
+    ],
+    "searchpagetype": [
+        "A"
+    ],
+    "Ali-CDN-Real-Port": [
+        "63887"
+    ],
+    "Ali-Swift-LOG-Host": [
+        "www.landui.com"
+    ],
+    "Ali-Swift-Force-Cache-Control": [
+        "2592000"
+    ],
+    "Purpose": [
+        "prefetch"
+    ],
+    "Qn-Cache-Level": [
+        "1"
+    ],
+    "X-M-Reqid": [
+        "-AQAAGaCILoAuSEW"
+    ],
+    "q-qimei": [
+        "867980041000725"
+    ],
+    "X-Originating-IP": [
+        "127.0.0.1"
+    ],
+    "Fetchaddr": [
+        "219.224.19.70"
+    ],
+    "Resource-Type": [
+        "3"
+    ],
+    "X-Devtools-Emulate-Network-Conditions-Client-Id": [
+        "a4eb3836-094f-40a8-805e-e9b00b9da008"
+    ],
+    "Proxy-Connection": [
+        "Keep-Alive"
+    ],
+    "l_sipc": [
+        "1596466016999"
+    ],
+    "Charsert": [
+        "UTF-8"
+    ],
+    "UA-CPU": [
+        "AMD64"
+    ],
+    "Fetchergroup": [
+        "UNICOM"
+    ],
+    "X-WVS-ID": [
+        "24"
+    ],
+    "x-csrftoken": [
+        "XnEO0XpCYGJ5Klo9brJjlMYD1BqY13QXKVum2i7Ej7yXuJgPluaqKSDdi9FM8aLu"
+    ],
+    "accesstoken": [
+        "a8bab30657fa03c5a042644bf92daa0f"
+    ],
+    "Charset": [
+        "utf-8"
+    ],
+    "Keep-Alive": [
+        "300"
+    ],
+    "Ws-Cdn-Phase": [
+        "1"
+    ],
+    "Content-Encoding": [
+        "gzip%2C%20deflate"
+    ],
+    "x-flash-version": [
+        "32%2C0%2C0%2C387"
+    ],
+    "x-http-method-override": [
+        "PATCH"
+    ],
+    "l_alu": [
+        "1597675692983"
+    ],
+    "x-tif-paasid": [
+        "hzhz"
+    ],
+    "emaccesstk": [
+        "ae86e80a00f2b655f6b17cbfb7ae8839"
+    ],
+    "Xroxy-Connection": [
+        "Keep-Alive"
+    ],
+    "X-SWEB-AuthTS": [
+        "1596678764"
+    ],
+    "X-SWEB-ClientIP": [
+        "z8KubMIQ0H5JKEl4howqTCaGtD%2B8rpiv5WA%3D"
+    ],
+    "X-SWEB-AuthCustID": [
+        "1190713419"
+    ],
+    "X-SWEB-AuthVersion": [
+        "3"
+    ],
+    "HTTPS": [
+        "1"
+    ],
+    "l_ripc": [
+        "1596465983749"
+    ],
+    "Icy-MetaData": [
+        "1"
+    ],
+    "SOAPAction": [
+        "urn%3AAdminService"
+    ],
+    "Ttmscheme": [
+        "https"
+    ]
+}
